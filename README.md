@@ -1,6 +1,6 @@
 # TestDevice_CrowPanel_7_ESP32
 
-Sample code for [Elecrow 7" ESP32 TFT](https://www.elecrow.com/esp32-display-7-inch-hmi-display-rgb-tft-lcd-touch-screen-support-lvgl.html?gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw_E4hBQbKg1bA7LxD5juA1-ofPMn3kHmHzKcoNzTT2WczSiiXNT5L4aAkFuEALw_wcB) to use with [Junction Relay](http://junctionrelay.com) application.
+Sample code for [Elecrow 5" ESP32 TFT](https://www.elecrow.com/crowpanel-advance-5-0-hmi-esp32-ai-display-800x480-ips-artificial-intelligent-touch-screen.html) to use with [Junction Relay](http://junctionrelay.com) application.
 
 This example code includes 3 presets built into Junction Relay:
 1. Data Grid

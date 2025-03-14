@@ -2,8 +2,8 @@
 #include <ArduinoJson.h>
 #include <lvgl.h>
 
-const char* WiFiManager::ssid = "Jon6";
-const char* WiFiManager::password = "fv4!F48P8&tR";
+const char* WiFiManager::ssid = "ssid";
+const char* WiFiManager::password = "password";
 
 WiFiManager::WiFiManager() 
     : server(80), jsonBuffer(""), payloadLength(0), readingLength(true), bytesRead(0), dataCallback(nullptr) {}
